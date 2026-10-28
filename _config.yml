@@ -1,2 +1,4 @@
 title: RubyPearl Lab
-theme: jekyll-theme-minimal
+description: RubyPearl Lab
+lang: ko
+markdown: kramdown
