@@ -5,7 +5,7 @@ title: Reptory Privacy Policy
 
 # Reptory Privacy Policy
 
-- Effective date: [effective date]
+- Effective date: October 28, 2026
 - Operator: RubyPearl Lab ("we", "the operator")
 - Contact: contact@rubypearllab.com
 
@@ -106,4 +106,4 @@ If this policy changes, we will post the changes and the new effective date on t
 
 ### Change history
 
-- [effective date]: first version
+- October 28, 2026: first version
